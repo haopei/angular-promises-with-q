@@ -8,3 +8,4 @@ Launch index.html and track the app's progress in the console.
 
 #### Resources
  - https://www.youtube.com/watch?v=wA0gZnBI8i4
+ - https://thinkster.io/a-better-way-to-learn-angularjs/promises
